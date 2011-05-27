@@ -1,8 +1,8 @@
 {
     "name" : "Debugger",
-    "author" : "Dan Hawkins <dan@nantura.com>",
+    "author" : "Dan Hawkins <dthawkins@gmailcom>",
     "description" : "Twilio Debugger",
-    "url" : "http://twilio.com",
+    "url" : "https://github.com/dthawkins/OpenVBX---Twilio-Notifications-Plugin",
     "links" : [
                         {
                         "menu" : "Reports",
