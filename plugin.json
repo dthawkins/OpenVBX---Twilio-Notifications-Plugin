@@ -1,0 +1,14 @@
+{
+    "name" : "Debugger",
+    "author" : "Dan Hawkins <dan@nantura.com>",
+    "description" : "Twilio Debugger",
+    "url" : "http://twilio.com",
+    "links" : [
+                        {
+                        "menu" : "Reports",
+                        "url" : "debugger",
+                        "script" : "debugger.php",
+                        "label" : "Debugger"
+                        }
+                ]
+}
