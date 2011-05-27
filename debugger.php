@@ -390,7 +390,7 @@ EOT;
 
 echo <<<EOT
 <div class="vbx-plugin">
-<h3>Twilio Account Debugger</h3>
+<h3>Twilio Notifications</h3>
 <form name="debugger_search" method="GET">
 From Date <input type="text" name="DateFrom" size="10">&nbsp;&nbsp;&nbsp;
 To Date <input type="text" name="DateTo" size="10">&nbsp;&nbsp;&nbsp;
